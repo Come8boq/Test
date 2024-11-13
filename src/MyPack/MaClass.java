@@ -1,7 +1,6 @@
 package MyPack;
 
 public class MaClass {
-
 	public MaClass() {
 		// TODO Auto-generated constructor stub
 	}
@@ -9,5 +8,4 @@ public class MaClass {
 	public static void main(String[] args) {
 		System.out.println("Hello world");
 	}
-
 }
